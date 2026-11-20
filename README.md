@@ -41,7 +41,7 @@
   <h3>📈 访客数量</h3>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JX-NB&color=00CFFF&style=for-the-badge&label=访客数量&labelColor=2c3e50&logo=github&logoColor=white">
+  <img src="https://komarev.com/ghpvc/?username=JX-NB&color=00CFFF&style=for-the-badge&label=%E8%AE%BF%E5%AE%A2%E6%95%B0%E9%87%8F&logo=github&logoColor=white">
 </p>
 
 <br>
