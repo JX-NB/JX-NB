@@ -5,14 +5,14 @@
 <br>
 
 <p align="center">
-  <h3>👋 你好，我是江寻</h3>
+  <h2>👋 你好，我是江寻</h2>
 </p>
 <p align="center">
-  Roblox 脚本新人，正在学习 Luau，慢慢打造云辞脚本
+  <i>Roblox 脚本新人｜持续学习 Luau，打造云辞脚本</i>
 </p>
 
 <br>
-<hr width="60%">
+<hr width="50%" color="#444444">
 <br>
 
 <p align="center">
@@ -27,11 +27,11 @@
 </p>
 
 <br>
-<hr width="60%">
+<hr width="50%" color="#444444">
 <br>
 
 <p align="center">
-  <h3>💬 联系</h3>
+  <h3>💬 联系我</h3>
 </p>
 <p align="center">
   <a href="https://qm.qq.com/q/m50bQHUae63899614433">
@@ -40,11 +40,9 @@
 </p>
 
 <br>
-<hr width="60%">
+<hr width="50%" color="#444444">
 <br>
 
 <p align="center">
-  <h4>☁️ 稳步前行</h4>
-  <h4>用心打磨云辞脚本</h4>
-  <h4>保持热爱，慢慢成长</h4>
+<img src="https://readme-typing-svg.herokuapp.com?font=WenQuanYi+Zen+Hei&size=23&center=true&vCenter=true&width=520&height=50&color=00CFFF&lines=稳步学习，潜心沉淀;保持热爱，打磨云辞☁️" alt="动态文字">
 </p>
