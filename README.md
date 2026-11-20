@@ -12,6 +12,8 @@
 </p>
 
 <br>
+<hr width="60%">
+<br>
 
 <p align="center">
   <h3>📚 学习方向</h3>
@@ -25,6 +27,8 @@
 </p>
 
 <br>
+<hr width="60%">
+<br>
 
 <p align="center">
   <h3>💬 联系</h3>
@@ -36,8 +40,11 @@
 </p>
 
 <br>
+<hr width="60%">
+<br>
 
 <p align="center">
-<blink><h4>保持热爱，持续钻研</h4></blink>
-<blink><h4>潜心打磨云辞脚本 ☁️</h4></blink>
+  <h4>☁️ 稳步前行</h4>
+  <h4>用心打磨云辞脚本</h4>
+  <h4>保持热爱，慢慢成长</h4>
 </p>
