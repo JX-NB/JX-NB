@@ -41,7 +41,7 @@
   <h3>📈 访客数量</h3>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/访客数量-查看记录-00CFFF?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JX-NB.JX-NB&left_text=访客数量&left_color=2c3e50&right_color=00CFFF&logo=github&style=for-the-badge">
 </p>
 
 <br>
