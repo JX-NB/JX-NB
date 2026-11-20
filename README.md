@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JX-NB/picture/main/yun-ci-.PNG" width="100%" alt="云辞">
+  <img src="https://raw.githubusercontent.com/JX-NB/picture/main/yun-ci-.PNG" height="280" alt="云辞">
 </p>
 
 <br>
 
 <p align="center">
-  <strong>👋 你好，我是江寻</strong>
+  <h3>👋 你好，我是江寻</h3>
 </p>
 <p align="center">
   Roblox 脚本新人，正在学习 Luau，慢慢打造云辞脚本
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <strong>📚 学习方向</strong>
+  <h3>📚 学习方向</h3>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white">
@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <strong>💬 联系</strong>
+  <h3>💬 联系</h3>
 </p>
 <p align="center">
   <a href="https://qm.qq.com/q/m50bQHUae63899614433">
@@ -38,14 +38,14 @@
 <br>
 
 <p align="center">
-  <strong>📈 访客数量</strong>
+  <h3>📈 访客数量</h3>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JX-NB&color=00CFFF&style=for-the-badge&label=访客">
+  <img src="https://komarev.com/ghpvc/?username=JX-NB&color=00CFFF&style=for-the-badge&label=访客数量">
 </p>
 
 <br>
 
 <p align="center">
-  <i>稳步学习，潜心做好云辞 ☁️</i>
+  <h4>稳步学习，潜心做好云辞 ☁️</h4>
 </p>
