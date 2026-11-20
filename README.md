@@ -38,14 +38,6 @@
 <br>
 
 <p align="center">
-  <h3>📈 访客数量</h3>
-</p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JX-NB.JX-NB&left_text=访客数量&left_color=2c3e50&right_color=00CFFF&logo=github&style=for-the-badge">
-</p>
-
-<br>
-
-<p align="center">
-  <h4>稳步学习，潜心做好云辞 ☁️</h4>
+<blink><h4>保持热爱，持续钻研</h4></blink>
+<blink><h4>潜心打磨云辞脚本 ☁️</h4></blink>
 </p>
