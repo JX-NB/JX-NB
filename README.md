@@ -44,8 +44,6 @@
   <img src="https://komarev.com/ghpvc/?username=JX-NB&color=00CFFF&style=for-the-badge&label=访客">
 </p>
 
-<img src="https://chuxia.ytong0312.workers.dev/" style="display:none" alt="tracker">
-
 <br>
 
 <p align="center">
